@@ -2,7 +2,6 @@
 ## Alan Mooiman ([alanmoo](http://twitter.com/alanmoo))
 
 **Slides**: 
-**Demo**:
 
 Old saying: "The King is dead. Long live the King!"
 
