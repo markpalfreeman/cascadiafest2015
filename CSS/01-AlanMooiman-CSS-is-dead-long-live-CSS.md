@@ -1,7 +1,7 @@
 # CSS is Dead, Long Live CSS
 ## Alan Mooiman ([alanmoo](http://twitter.com/alanmoo))
 
-**Slides**: ___________
+**Slides**: https://speakerdeck.com/alanmoo/css-is-dead-long-live-css
 
 Old saying: "The King is dead. Long live the King!"
 
@@ -11,7 +11,7 @@ Old saying: "The King is dead. Long live the King!"
 > CSS will save us form Preprocessors.
 
 ### Preprocessing features with CSS solutions:
-- Nesting (can get bloated) -> :matches(), :has()
+- Nesting (can get bloated) -> :matches()
 - Flexbox (concerns can be too closely tied) -> CSS Grid Layout
 - Variables -> coming to CSS!
 - Extends -> Tab Atkins: these may become better in CSS itself
