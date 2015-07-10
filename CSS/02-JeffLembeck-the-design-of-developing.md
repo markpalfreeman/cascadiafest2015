@@ -1,7 +1,7 @@
 # The Design of Developing
 ## Jeff Lembeck ([jefflembeck](http://twitter.com/jefflembeck))
 
-**Slides**: 
+**Slides**: ___________
 
 *The Family Meal* (Ferian Adria) cookbook is a guideline for how we should make software.
 
@@ -14,7 +14,7 @@ Make something accessible, good for the community, making lives simpler.
 ### Postel's Law, 1981:
 > Be conservative in what you do, be liberal about what you accept from others.
 
-## Favorite Patterns
+### Favorite Patterns
 - **Filter Pattern**: take standard in, return standard out
   - Ex: gulp pipe()
 - **Cantrip Pattern**: no standard in, no standard out
@@ -29,7 +29,7 @@ Make something accessible, good for the community, making lives simpler.
 
 Grunticon now makes use of small, single-use programs. Testable! Simple!
 
-## Lessons learned
+### Lessons learned
 - Make user experience something you take pride in
 - Let public know they're heard
 - Make contribution guidelines and code of conduct

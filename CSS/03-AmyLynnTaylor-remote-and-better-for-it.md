@@ -1,14 +1,14 @@
 # Remote and Better For It
 ## Amy Lynn Taylor ([amydearest](http://twitter.com/amydearest))
 
-**Slides**: 
+**Slides**: ___________
 
 5 years ago, &yet was in one small office in Richland.
 Amy wanted to move to PDX, and from then on, it made an effort to allow remote workers.
 
 Separation challenges arose: most fun was happening back at the office/offline -> how do we maintain togetherness?
 
-## Solutions/findings
+### Solutions/findings
 - The more connection, the better 
 - Frequent video calls
 

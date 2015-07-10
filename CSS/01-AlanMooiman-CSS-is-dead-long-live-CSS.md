@@ -1,7 +1,7 @@
 # CSS is Dead, Long Live CSS
 ## Alan Mooiman ([alanmoo](http://twitter.com/alanmoo))
 
-**Slides**: 
+**Slides**: ___________
 
 Old saying: "The King is dead. Long live the King!"
 
@@ -21,4 +21,4 @@ Old saying: "The King is dead. Long live the King!"
 
 CSS will be around for a while. It doesn't need to be ditched altogether.
 
-"The King isn't dead; he's just carefully planning what's best for his subjects."
+> The King isn't dead; he's just carefully planning what's best for his subjects.
