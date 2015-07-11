@@ -2,6 +2,11 @@
 ## Myles Borins ([thealphanerd](http://twitter.com/thealphanerd))
 
 **Slides**: 
+
+**Visual Notes:**
+* https://twitter.com/floriidaaa/status/619233249357754368
+* https://twitter.com/_lrlna/status/619233253585629184
+
 **Demo**:
 
 Myles is an artist (bachelor's in fine art) and musician (installation, digital sound), developer (full-time open source)

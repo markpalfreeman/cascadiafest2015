@@ -3,6 +3,8 @@
 
 **Slides**: [speakerdeck.com/shayhowe/css-as-a-service-maintaining-style](https://speakerdeck.com/shayhowe/css-as-a-service-maintaining-style)
 
+**Visual Notes:** https://twitter.com/_lrlna/status/618953326399336448
+
 *Belly, Chicago*
 
 Modular CSS, sharing styles across code Bases

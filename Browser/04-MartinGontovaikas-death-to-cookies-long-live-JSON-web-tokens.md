@@ -3,6 +3,7 @@
 
 **Slides**: 
 
+**Visual Notes:** https://twitter.com/_lrlna/status/619220786881122304
 
 Previously JS developer, now Developer Advocate
 
