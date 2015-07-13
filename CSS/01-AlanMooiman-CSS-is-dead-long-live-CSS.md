@@ -3,6 +3,8 @@
 
 **Slides**: https://speakerdeck.com/alanmoo/css-is-dead-long-live-css
 
+**Visual Notes:** https://twitter.com/floriidaaa/status/618834373052231680
+
 Old saying: "The King is dead. Long live the King!"
 
 "We declare something dead rather quickly... CSS has been pronounced dead many times."

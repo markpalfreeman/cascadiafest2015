@@ -3,6 +3,10 @@
 
 **Slides**: ___________
 
+**Visual Notes:**
+* https://twitter.com/floriidaaa/status/618948817866469376
+* https://twitter.com/_lrlna/status/618954310617935872
+
 ### Innovation (historically)
 - Corporations
 - Government funds

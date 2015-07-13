@@ -3,6 +3,8 @@
 
 **Slides**: 
 
+**Visual Notes:** https://twitter.com/floriidaaa/status/619228164292759553
+
 ## WebGL:
 Javascript library using canvas, but using directly can be *hard*
 

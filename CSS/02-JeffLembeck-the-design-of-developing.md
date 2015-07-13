@@ -3,6 +3,10 @@
 
 **Slides**: ___________
 
+**Visual Notes:**
+* https://twitter.com/floriidaaa/status/618840949255311360
+* https://twitter.com/_lrlna/status/618841879208181760
+
 *The Family Meal* (Ferian Adria) cookbook is a guideline for how we should make software.
 
 Make something accessible, good for the community, making lives simpler.

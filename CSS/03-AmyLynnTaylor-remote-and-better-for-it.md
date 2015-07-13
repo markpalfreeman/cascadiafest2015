@@ -3,6 +3,10 @@
 
 **Slides**: ___________
 
+**Visual Notes:**
+* https://twitter.com/floriidaaa/status/618848081258266625
+* https://twitter.com/_lrlna/status/618849867922718720
+
 5 years ago, &yet was in one small office in Richland.
 Amy wanted to move to PDX, and from then on, it made an effort to allow remote workers.
 
